@@ -2,7 +2,7 @@
 ## Bubble Sort
 For an array of length n you must make n passes.  
 Each pass consists of looking at all adjacent elements and swapping them if they are out of order.
-This is trival to parrallelize.  
+This is trival to parallelize.  
 
 For even numbered passes, you compare and swap elements (0,1),(2,3),(4,5) ... 
 
